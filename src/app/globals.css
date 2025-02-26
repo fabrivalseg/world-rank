@@ -54,7 +54,7 @@ body, html{
     padding-bottom: 14px;
     padding-right: 5px;
     padding-left: 50px;
-    width: 36%;
+    width: 40%;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -272,7 +272,7 @@ td, th {
 
 .search-icon{
     position: absolute;
-    left: 65%;
+    left: 62%;
 }
 
 .container-tarjeta{
